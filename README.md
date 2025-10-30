@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with human-in-the-loop design in mind and tailored specifically for "ALIVE-Knowledgeexplorer" in the "knowledge_explorer" domain, implemented in Python.
+    This project was conceived with research-grade experimentation in mind and tailored specifically for "ALIVE-Knowledgeexplorer" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `5656c9cfa500` • Generated: 2025-10-30T05:40:54.984037
+    Project Fingerprint: `216bd26ad29a` • Generated: 2025-10-30T05:45:01.156629
     
 
 ## Insights from Research
 
-- Video: The SIMPLEST File Management System You’ve Ever Seen
-- Video: This Simple File Management System Changed My Life!
-- Video: Different File Management Systems
-- Video: How I Organize My Files
-- Repo idea: 😎 Awesome lists about all kinds of interesting topics
-- Repo idea: A collective list of free APIs
-- Repo idea: A list of Free Software network services and web applications which can be hosted on your own server
-- Repo idea: 🎓 Path to a free self-taught education in Computer Science!
-- Repo idea: A curated list of awesome Go frameworks, libraries and software
+- Video: Is AI🤖 Truly Conscious? - Elon Musk
+- Video: Architecture Site Analysis Diagrams in SECONDS with AI 😱 | Aino World #architecture
+- Video: Architecting Agent Memory: Principles, Patterns, and Best Practices — Richmond Alake, MongoDB
+- Video: Manuel Blum - Towards a Conscious AI: A Computer Architecture inspired by Neuroscience
+- Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
+- Repo idea:  :books: Find your next book to read!
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=RduiRsZqdbI
-- https://www.youtube.com/watch?v=RduiRsZqdbI
-- https://www.youtube.com/watch?v=RduiRsZqdbI
-- https://www.youtube.com/watch?v=RduiRsZqdbI
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
 
 
 ## Related Repositories
 
-- sindresorhus/awesome ⭐ 410506 — https://github.com/sindresorhus/awesome
-- public-apis/public-apis ⭐ 374595 — https://github.com/public-apis/public-apis
-- awesome-selfhosted/awesome-selfhosted ⭐ 255469 — https://github.com/awesome-selfhosted/awesome-selfhosted
-- ossu/computer-science ⭐ 196177 — https://github.com/ossu/computer-science
-- avelino/awesome-go ⭐ 156099 — https://github.com/avelino/awesome-go
+- f/awesome-chatgpt-prompts ⭐ 135921 — https://github.com/f/awesome-chatgpt-prompts
+- prakhar1989/awesome-courses ⭐ 64046 — https://github.com/prakhar1989/awesome-courses
+- hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
+- 0xk1h0/ChatGPT_DAN ⭐ 10103 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
